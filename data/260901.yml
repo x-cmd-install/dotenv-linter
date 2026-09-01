@@ -1,0 +1,58 @@
+about:
+  description: ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
+  license: MIT
+  homepage: https://dotenv-linter.github.io
+  head: 36ed540
+  archived: false
+  latestVersion: v4.0.0
+  collectedAt: 2026-09-01T04:56:30Z
+timeline:
+  created: 2019-11-30
+  lastCommit: 2026-01-01
+  lastRelease: 2025-10-18
+popularity:
+  star: 2102
+  watcher: 20
+  fork: 166
+  release: 15
+  contributor: 93
+  pullRequest: 259
+  issue: 222
+language:
+  Rust: 269912
+  Shell: 5593
+  Dockerfile: 718
+totalLine: 276223
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 0
+    openPR: 2
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-03
+    release: 0
+    mergedPR: 0
+    openPR: 5
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-05
+    release: 0
+    mergedPR: 0
+    openPR: 9
+    closedIssue: 0
+    openIssue: 1
+    commit: 0
+  last360d:
+    since: 2025-09-06
+    release: 1
+    mergedPR: 16
+    openPR: 16
+    closedIssue: 2
+    openIssue: 2
+    commit: 15
