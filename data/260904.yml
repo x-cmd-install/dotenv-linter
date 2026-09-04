@@ -7,7 +7,7 @@ about:
   head: 36ed540
   archived: false
   latestVersion: v4.0.0
-  collectedAt: 2026-09-04T19:25:29Z
+  collectedAt: 2026-09-04T21:07:25Z
 timeline:
   created: 2019-11-30
   lastCommit: 2026-01-01
@@ -82,6 +82,49 @@ total:
   openIssue: 14
   commit: 490
 ---
+path: /home/runner/.x-repo/github.com/dotenv-linter/dotenv-linter
+collectedAt: 2026-09-04T21:07:25Z
+loc:
+  Rust:
+    code: 7769
+    comments: 194
+    blanks: 1394
+    files: 104
+  Toml:
+    code: 215
+    comments: 18
+    blanks: 27
+    files: 9
+  Sh:
+    code: 176
+    comments: 14
+    blanks: 48
+    files: 2
+  Json:
+    code: 23
+    comments: 0
+    blanks: 0
+    files: 1
+  Dockerfile:
+    code: 19
+    comments: 1
+    blanks: 6
+    files: 1
+  Svg:
+    code: 15
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 967
+    blanks: 243
+    files: 8
+total:
+  code: 8453
+  comments: 1294
+  blanks: 1776
+  files: 126
 ---
 date: "2026-08-24"
 repo:
