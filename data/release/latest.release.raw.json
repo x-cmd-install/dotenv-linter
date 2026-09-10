@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1001451,
       "digest": "sha256:819153e4f43ce016ebd076653e611431d5207e4fa5623a83028dfca92b1c3201",
-      "download_count": 896,
+      "download_count": 897,
       "created_at": "2025-10-18T14:00:17Z",
       "updated_at": "2025-10-18T14:00:18Z",
       "browser_download_url": "https://github.com/dotenv-linter/dotenv-linter/releases/download/v4.0.0/dotenv-linter-alpine-aarch64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1814637,
       "digest": "sha256:88a9f2ccfbfea621e5b4691246c419de71d79c7596def888849496695cd8a082",
-      "download_count": 75743,
+      "download_count": 75982,
       "created_at": "2025-10-18T14:00:06Z",
       "updated_at": "2025-10-18T14:00:06Z",
       "browser_download_url": "https://github.com/dotenv-linter/dotenv-linter/releases/download/v4.0.0/dotenv-linter-alpine-x86_64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1568331,
       "digest": "sha256:430ed45983cfc1d242cae959ec4b3b2df43fa1aff07d7750cc836d2f6479799a",
-      "download_count": 10074,
+      "download_count": 10087,
       "created_at": "2025-10-18T13:57:12Z",
       "updated_at": "2025-10-18T13:57:13Z",
       "browser_download_url": "https://github.com/dotenv-linter/dotenv-linter/releases/download/v4.0.0/dotenv-linter-darwin-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1612403,
       "digest": "sha256:143361bcd3c859cac0b16a6eaa51f3f69f270f17a55431e2e44d76722a7f0271",
-      "download_count": 1360,
+      "download_count": 1370,
       "created_at": "2025-10-18T13:59:38Z",
       "updated_at": "2025-10-18T13:59:39Z",
       "browser_download_url": "https://github.com/dotenv-linter/dotenv-linter/releases/download/v4.0.0/dotenv-linter-darwin-x86_64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1753401,
       "digest": "sha256:c4113aafd35e5f9095b2f757061d07cc8eb5cc0bcd755249877af08b7ffafb9a",
-      "download_count": 12529,
+      "download_count": 12566,
       "created_at": "2025-10-18T14:01:39Z",
       "updated_at": "2025-10-18T14:01:40Z",
       "browser_download_url": "https://github.com/dotenv-linter/dotenv-linter/releases/download/v4.0.0/dotenv-linter-linux-aarch64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1729911,
       "digest": "sha256:9e2f1f6eb88a71ac15ef209f78f5a68644db82f132d2677112b4f80ec2bd2127",
-      "download_count": 344888,
+      "download_count": 346448,
       "created_at": "2025-10-18T13:58:32Z",
       "updated_at": "2025-10-18T13:58:33Z",
       "browser_download_url": "https://github.com/dotenv-linter/dotenv-linter/releases/download/v4.0.0/dotenv-linter-linux-x86_64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 677275,
       "digest": "sha256:523f47a78a52ebdd5ff1fa30c94e1df0ed66f80c5c898eb49e72caec47a23e5e",
-      "download_count": 290,
+      "download_count": 291,
       "created_at": "2025-10-18T14:00:16Z",
       "updated_at": "2025-10-18T14:00:16Z",
       "browser_download_url": "https://github.com/dotenv-linter/dotenv-linter/releases/download/v4.0.0/dotenv-linter-win-aarch64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1387371,
       "digest": "sha256:771214659b86d2de5c8c5214e6d59484ceb0de8a87037d488ce37d6ca6f6cc1a",
-      "download_count": 10182,
+      "download_count": 10251,
       "created_at": "2025-10-18T14:00:50Z",
       "updated_at": "2025-10-18T14:00:50Z",
       "browser_download_url": "https://github.com/dotenv-linter/dotenv-linter/releases/download/v4.0.0/dotenv-linter-win-x64.zip"

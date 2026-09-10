@@ -1,0 +1,242 @@
+- repo: alpine_edge
+  subrepo: testing
+  srcname: dotenv-linter
+  binname: dotenv-linter
+  visiblename: dotenv-linter
+  version: 4.0.0
+  origversion: 4.0.0-r0
+  status: newest
+  summary: Lightning-fast linter for .env files
+  maintainers:
+    - alpine@ptrcnull.me
+  licenses:
+    - MIT
+- repo: aur
+  srcname: dotenv-linter
+  binname: dotenv-linter
+  visiblename: dotenv-linter
+  version: 3.3.0
+  origversion: 3.3.0-1
+  status: outdated
+  summary: Lightning-fast linter for .env files. Written in Rust
+  maintainers:
+    - flipee@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: dotenv-linter-bin
+  binname: dotenv-linter-bin
+  visiblename: dotenv-linter-bin
+  version: v4.0.0
+  origversion: v4.0.0-1
+  status: outdated
+  summary: Linter for .env files. Written in Rust
+  maintainers:
+    - mstruebing@aur
+    - mgrachev@aur
+    - dotenv-linter@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: dotenv-linter-git
+  binname: dotenv-linter-git
+  visiblename: dotenv-linter-git
+  version: 1.1.1
+  origversion: 1.1.1-1
+  status: rolling
+  summary: Linter for .env files. Written in Rust
+  maintainers:
+    - mstruebing@aur
+    - mgrachev@aur
+    - dotenv-linter@aur
+  licenses:
+    - MIT
+- repo: crates_io
+  srcname: dotenv-linter
+  visiblename: dotenv-linter
+  version: 4.0.0
+  origversion: null
+  status: newest
+  summary: Lightning-fast linter for .env files
+- repo: debian_14
+  subrepo: forky/main
+  srcname: rust-dotenv-linter
+  binnames:
+    - librust-dotenv-linter-dev
+    - dotenv-linter
+  visiblename: rust-dotenv-linter
+  version: 4.0.0
+  origversion: 4.0.0-1
+  status: newest
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - heqing@rool.me
+  categories:
+    - utils
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: rust-dotenv-linter
+  binnames:
+    - librust-dotenv-linter-dev
+    - dotenv-linter
+  visiblename: rust-dotenv-linter
+  version: 4.0.0
+  origversion: 4.0.0-1
+  status: newest
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - heqing@rool.me
+  categories:
+    - utils
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: rust-dotenv-linter
+  binnames:
+    - librust-dotenv-linter-dev
+    - dotenv-linter
+  visiblename: rust-dotenv-linter
+  version: 4.0.0
+  origversion: 4.0.0-1
+  status: newest
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - heqing@rool.me
+  categories:
+    - utils
+- repo: freebsd
+  srcname: misc/dotenv-linter
+  binname: dotenv-linter
+  visiblename: misc/dotenv-linter
+  version: 4.0.0
+  origversion: 4.0.0_8
+  status: newest
+  summary: Linter for .env files. Written in Rust
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - misc
+- repo: homebrew
+  srcname: dotenv-linter
+  visiblename: dotenv-linter
+  version: 4.0.0
+  origversion: null
+  status: newest
+  summary: Lightning-fast linter for .env files written in Rust
+- repo: homebrew
+  srcname: dotenv-linter
+  visiblename: dotenv-linter
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Lightning-fast linter for .env files written in Rust
+- repo: kali_rolling
+  subrepo: main
+  srcname: rust-dotenv-linter
+  binnames:
+    - librust-dotenv-linter-dev
+    - dotenv-linter
+  visiblename: rust-dotenv-linter
+  version: 4.0.0
+  origversion: 4.0.0-1
+  status: newest
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - heqing@rool.me
+  categories:
+    - utils
+- repo: nix_stable_24_05
+  srcname: dotenv-linter
+  visiblename: dotenv-linter
+  version: 3.3.0
+  origversion: null
+  status: outdated
+  summary: Lightning-fast linter for .env files. Written in Rust
+  maintainers:
+    - humancalico@disroot.org
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: dotenv-linter
+  visiblename: dotenv-linter
+  version: 3.3.0
+  origversion: null
+  status: outdated
+  summary: Lightning-fast linter for .env files. Written in Rust
+  maintainers:
+    - humancalico@disroot.org
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: dotenv-linter
+  visiblename: dotenv-linter
+  version: 3.3.0
+  origversion: null
+  status: outdated
+  summary: Lightning-fast linter for .env files. Written in Rust
+  maintainers:
+    - humancalico@disroot.org
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: dotenv-linter
+  visiblename: dotenv-linter
+  version: 4.0.0
+  origversion: null
+  status: newest
+  summary: Lightning-fast linter for .env files. Written in Rust
+  maintainers:
+    - humancalico@disroot.org
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: dotenv-linter
+  visiblename: dotenv-linter
+  version: 4.0.0
+  origversion: null
+  status: newest
+  summary: Lightning-fast linter for .env files. Written in Rust
+  maintainers:
+    - humancalico@disroot.org
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: dotenv-linter
+  visiblename: dotenv-linter
+  version: 4.0.0
+  origversion: null
+  status: newest
+  summary: Lightning-fast linter for .env files. Written in Rust
+  maintainers:
+    - humancalico@disroot.org
+  licenses:
+    - MIT
+- repo: raspbian_testing
+  subrepo: main
+  srcname: rust-dotenv-linter
+  binnames:
+    - librust-dotenv-linter-dev
+    - dotenv-linter
+  visiblename: rust-dotenv-linter
+  version: 4.0.0
+  origversion: 4.0.0-1
+  status: newest
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - heqing@rool.me
+  categories:
+    - utils
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: rust-dotenv-linter
+  binnames:
+    - librust-dotenv-linter-dev
+    - dotenv-linter
+  visiblename: rust-dotenv-linter
+  version: 4.0.0
+  origversion: 4.0.0-1
+  status: newest
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - heqing@rool.me
+  categories:
+    - universe/utils
