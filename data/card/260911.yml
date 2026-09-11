@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.0.0"
   latestRelease: "v4.0.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:41:21Z
+  collectedAt: 2026-09-11T19:12:04Z
 timeline:
   created: 2019-11-30
   lastCommit: 2026-01-01
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-10-18
   lastPrerelease: 
 popularity:
-  star: 2103
+  star: 2104
   watcher: 20
   fork: 167
   release: 15
@@ -85,7 +85,7 @@ total:
   commit: 490
 ---
 path: /home/runner/.x-repo/github.com/dotenv-linter/dotenv-linter
-collectedAt: 2026-09-11T05:41:22Z
+collectedAt: 2026-09-11T19:12:05Z
 loc:
   Rust:
     code: 7769
