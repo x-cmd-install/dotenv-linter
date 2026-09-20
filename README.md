@@ -4,7 +4,7 @@
 
 ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
 
-![dotenv-linter](https://repo.x-cmd.io/dotenv-linter.svg)
+[![x-cmd/install — dotenv-linter Code Quality Monitoring Repo Card](https://repo.x-cmd.io/dotenv-linter.svg)](https://x-cmd.com/install/dotenv-linter)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,105 · **Forks**: 166 · **Open issues**: 222 · **Contributors**: 93
+- **Stars**: 2,105 · **Forks**: 166 · **Open issues**: 223 · **Contributors**: 93
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 471 · **Open PRs**: 22 · **Closed issues**: 208 · **Open issues**: 14 · **Commits**: 490
+- **Releases**: 15 · **Merged PRs**: 471 · **Open PRs**: 22 · **Closed issues**: 208 · **Open issues**: 15 · **Commits**: 490
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 4 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 5 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 8 | 0 | 1 | 0 |
-| 360d | 2025-09-23 | 1 | 12 | 16 | 2 | 2 | 14 |
-| last720d | 2024-09-28 | 1 | 43 | 19 | 5 | 3 | 43 |
+| 30d | 2026-08-21 | 0 | 0 | 4 | 0 | 1 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 4 | 0 | 1 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 5 | 0 | 1 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 8 | 0 | 2 | 0 |
+| 360d | 2025-09-25 | 1 | 12 | 16 | 2 | 3 | 14 |
+| last720d | 2024-09-30 | 1 | 43 | 19 | 5 | 4 | 43 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for dotenv-linter lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:52:39Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:59:35Z._
