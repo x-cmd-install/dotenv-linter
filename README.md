@@ -4,7 +4,7 @@
 
 ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
 
-[![x-cmd/install — dotenv-linter Code Quality Monitoring Repo Card](https://repo.x-cmd.io/dotenv-linter.svg)](https://x-cmd.com/install/dotenv-linter)
+[![x-cmd/install — dotenv-linter Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/dotenv-linter.svg)](https://x-cmd.com/install/dotenv-linter)
 
 ## Install
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 4 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 4 | 0 | 1 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 5 | 0 | 1 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 8 | 0 | 2 | 0 |
-| 360d | 2025-09-27 | 1 | 12 | 16 | 2 | 3 | 14 |
-| last720d | 2024-10-02 | 1 | 43 | 19 | 5 | 4 | 43 |
+| 30d | 2026-08-24 | 0 | 0 | 4 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 4 | 0 | 1 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 5 | 0 | 1 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 8 | 0 | 2 | 0 |
+| 360d | 2025-09-28 | 1 | 12 | 16 | 2 | 3 | 14 |
+| last720d | 2024-10-03 | 1 | 43 | 19 | 5 | 4 | 43 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for dotenv-linter lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:57:39Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:02:44Z._
