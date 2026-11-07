@@ -1,18 +1,3 @@
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: rust-dotenv-linter
-  binnames:
-    - librust-dotenv-linter-dev
-    - dotenv-linter
-  visiblename: rust-dotenv-linter
-  version: 4.0.0
-  origversion: 4.0.0-1
-  status: newest
-  maintainers:
-    - pkg-rust-maintainers@alioth-lists.debian.net
-    - heqing@rool.me
-  categories:
-    - utils
 - repo: alpine_edge
   subrepo: testing
   srcname: dotenv-linter
@@ -90,6 +75,21 @@
     - utils
 - repo: debian_unstable
   subrepo: sid/main
+  srcname: rust-dotenv-linter
+  binnames:
+    - librust-dotenv-linter-dev
+    - dotenv-linter
+  visiblename: rust-dotenv-linter
+  version: 4.0.0
+  origversion: 4.0.0-1
+  status: newest
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - heqing@rool.me
+  categories:
+    - utils
+- repo: devuan_unstable
+  subrepo: unstable/main
   srcname: rust-dotenv-linter
   binnames:
     - librust-dotenv-linter-dev
@@ -227,6 +227,21 @@
     - utils
 - repo: ubuntu_26_10
   subrepo: stonking/universe
+  srcname: rust-dotenv-linter
+  binnames:
+    - librust-dotenv-linter-dev
+    - dotenv-linter
+  visiblename: rust-dotenv-linter
+  version: 4.0.0
+  origversion: 4.0.0-1
+  status: newest
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - heqing@rool.me
+  categories:
+    - universe/utils
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: rust-dotenv-linter
   binnames:
     - librust-dotenv-linter-dev
