@@ -14,12 +14,12 @@ x install dotenv-linter
 
 ## Code insight
 
-Total: **8,234** lines of code across **117** files in the top 5 languages.
+Total: **8,462** lines of code across **117** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 7,784 | 195 | 1,397 | 104 |
-| Toml | 215 | 18 | 27 | 9 |
+| Rust | 8,016 | 203 | 1,440 | 104 |
+| Toml | 211 | 18 | 27 | 9 |
 | Sh | 176 | 14 | 48 | 2 |
 | Json | 23 | 0 | 0 | 1 |
 | Dockerfile | 21 | 1 | 6 | 1 |
@@ -33,27 +33,27 @@ Total: **8,234** lines of code across **117** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.0.0` (2025-10-18)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-18
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 2,119 · **Forks**: 169 · **Open issues**: 226 · **Contributors**: 95
+- **Stars**: 2,119 · **Forks**: 169 · **Open issues**: 227 · **Contributors**: 97
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 473 · **Open PRs**: 24 · **Closed issues**: 209 · **Open issues**: 17 · **Commits**: 492
+- **Releases**: 15 · **Merged PRs**: 493 · **Open PRs**: 15 · **Closed issues**: 210 · **Open issues**: 17 · **Commits**: 512
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 1 | 2 | 0 | 0 | 2 |
-| last60d | 2026-09-18 | 0 | 1 | 3 | 0 | 3 | 2 |
-| 90d | 2026-08-19 | 0 | 1 | 7 | 0 | 4 | 2 |
-| last180d | 2026-05-21 | 0 | 1 | 9 | 0 | 4 | 2 |
-| 360d | 2025-11-22 | 0 | 3 | 17 | 0 | 5 | 3 |
-| last720d | 2024-11-27 | 1 | 43 | 21 | 6 | 6 | 43 |
+| 30d | 2026-10-20 | 0 | 15 | 0 | 0 | 1 | 22 |
+| last60d | 2026-09-20 | 0 | 15 | 2 | 0 | 4 | 22 |
+| 90d | 2026-08-21 | 0 | 17 | 4 | 0 | 5 | 22 |
+| last180d | 2026-05-23 | 0 | 17 | 6 | 0 | 5 | 22 |
+| 360d | 2025-11-24 | 0 | 22 | 9 | 0 | 6 | 23 |
+| last720d | 2024-11-29 | 1 | 63 | 12 | 6 | 7 | 63 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for dotenv-linter lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:00:27Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:23:01Z._
