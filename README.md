@@ -14,11 +14,11 @@ x install dotenv-linter
 
 ## Code insight
 
-Total: **8,560** lines of code across **117** files in the top 5 languages.
+Total: **8,631** lines of code across **117** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 8,114 | 203 | 1,452 | 104 |
+| Rust | 8,185 | 203 | 1,458 | 104 |
 | Toml | 211 | 18 | 27 | 9 |
 | Sh | 176 | 14 | 48 | 2 |
 | Json | 23 | 0 | 0 | 1 |
@@ -38,22 +38,22 @@ Total: **8,560** lines of code across **117** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,118 · **Forks**: 169 · **Open issues**: 227 · **Contributors**: 97
+- **Stars**: 2,118 · **Forks**: 169 · **Open issues**: 227 · **Contributors**: 98
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 496 · **Open PRs**: 12 · **Closed issues**: 211 · **Open issues**: 16 · **Commits**: 515
+- **Releases**: 15 · **Merged PRs**: 499 · **Open PRs**: 12 · **Closed issues**: 212 · **Open issues**: 15 · **Commits**: 518
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 17 | 0 | 0 | 1 | 25 |
-| last60d | 2026-09-21 | 0 | 17 | 2 | 0 | 4 | 25 |
-| 90d | 2026-08-22 | 0 | 20 | 3 | 0 | 5 | 25 |
-| last180d | 2026-05-24 | 0 | 20 | 5 | 0 | 5 | 25 |
-| 360d | 2025-11-25 | 0 | 25 | 7 | 0 | 6 | 26 |
-| last720d | 2024-11-30 | 1 | 66 | 10 | 6 | 7 | 66 |
+| 30d | 2026-10-22 | 0 | 20 | 3 | 0 | 1 | 28 |
+| last60d | 2026-09-22 | 0 | 20 | 5 | 0 | 4 | 28 |
+| 90d | 2026-08-23 | 0 | 23 | 5 | 0 | 5 | 28 |
+| last180d | 2026-05-25 | 0 | 23 | 7 | 0 | 5 | 28 |
+| 360d | 2025-11-26 | 0 | 28 | 8 | 0 | 6 | 29 |
+| last720d | 2024-12-01 | 1 | 69 | 11 | 6 | 7 | 69 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for dotenv-linter lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:24:25Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:36:12Z._
