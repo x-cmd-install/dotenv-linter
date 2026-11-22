@@ -24,6 +24,16 @@ Total: **8,631** lines of code across **117** files in the top 5 languages.
 | Json | 23 | 0 | 0 | 1 |
 | Dockerfile | 21 | 1 | 6 | 1 |
 
+## OpenSSF Scorecard
+
+Overall score: **2.9 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (1/10) — Found 3/17 approved changesets -- score normalized to 1
+- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/dotenv-linter/dotenv-linter>
@@ -38,7 +48,7 @@ Total: **8,631** lines of code across **117** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,118 · **Forks**: 169 · **Open issues**: 227 · **Contributors**: 98
+- **Stars**: 2,119 · **Forks**: 169 · **Open issues**: 227 · **Contributors**: 98
 
 ## Totals (cumulative)
 
@@ -48,12 +58,12 @@ Total: **8,631** lines of code across **117** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 20 | 3 | 0 | 1 | 28 |
-| last60d | 2026-09-22 | 0 | 20 | 5 | 0 | 4 | 28 |
-| 90d | 2026-08-23 | 0 | 23 | 5 | 0 | 5 | 28 |
-| last180d | 2026-05-25 | 0 | 23 | 7 | 0 | 5 | 28 |
-| 360d | 2025-11-26 | 0 | 28 | 8 | 0 | 6 | 29 |
-| last720d | 2024-12-01 | 1 | 69 | 11 | 6 | 7 | 69 |
+| 30d | 2026-10-23 | 0 | 20 | 3 | 0 | 1 | 28 |
+| last60d | 2026-09-23 | 0 | 20 | 5 | 0 | 4 | 28 |
+| 90d | 2026-08-24 | 0 | 23 | 5 | 0 | 5 | 28 |
+| last180d | 2026-05-26 | 0 | 23 | 7 | 0 | 5 | 28 |
+| 360d | 2025-11-27 | 0 | 28 | 8 | 0 | 6 | 29 |
+| last720d | 2024-12-02 | 1 | 69 | 11 | 6 | 7 | 69 |
 
 ## Release assets
 
@@ -89,4 +99,4 @@ Install metadata for dotenv-linter lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:36:12Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:39:13Z._
