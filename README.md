@@ -18,7 +18,7 @@ Total: **8,631** lines of code across **117** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 8,185 | 203 | 1,458 | 104 |
+| Rust | 8,185 | 203 | 1,461 | 104 |
 | Toml | 211 | 18 | 27 | 9 |
 | Sh | 176 | 14 | 48 | 2 |
 | Json | 23 | 0 | 0 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.0.0` (2025-10-18)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-24
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 2,119 · **Forks**: 169 · **Open issues**: 227 · **Contributors**: 98
+- **Stars**: 2,119 · **Forks**: 168 · **Open issues**: 224 · **Contributors**: 98
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 499 · **Open PRs**: 12 · **Closed issues**: 212 · **Open issues**: 15 · **Commits**: 518
+- **Releases**: 15 · **Merged PRs**: 504 · **Open PRs**: 8 · **Closed issues**: 212 · **Open issues**: 12 · **Commits**: 523
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 20 | 3 | 0 | 1 | 0 |
-| last60d | 2026-09-24 | 0 | 20 | 5 | 0 | 4 | 0 |
-| 90d | 2026-08-25 | 0 | 23 | 5 | 0 | 5 | 0 |
-| last180d | 2026-05-27 | 0 | 23 | 7 | 0 | 5 | 0 |
-| 360d | 2025-11-28 | 0 | 28 | 8 | 0 | 6 | 0 |
-| last720d | 2024-12-03 | 1 | 69 | 11 | 6 | 7 | 69 |
+| 30d | 2026-10-25 | 0 | 25 | 0 | 0 | 1 | 33 |
+| last60d | 2026-09-25 | 0 | 25 | 1 | 0 | 1 | 33 |
+| 90d | 2026-08-26 | 0 | 28 | 1 | 0 | 2 | 33 |
+| last180d | 2026-05-28 | 0 | 28 | 3 | 0 | 2 | 33 |
+| 360d | 2025-11-29 | 0 | 33 | 4 | 0 | 3 | 34 |
+| last720d | 2024-12-04 | 1 | 74 | 7 | 6 | 4 | 74 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for dotenv-linter lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:11:27Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:31:57Z._
