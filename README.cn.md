@@ -14,11 +14,11 @@ x install dotenv-linter
 
 ## 代码洞察
 
-合计: **8,631** 行代码（覆盖前 5 种语言、共 **117** 个文件）。
+合计: **9,090** 行代码（覆盖前 5 种语言、共 **119** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 8,185 | 203 | 1,461 | 104 |
+| Rust | 8,644 | 210 | 1,443 | 106 |
 | Toml | 211 | 18 | 27 | 9 |
 | Sh | 176 | 14 | 48 | 2 |
 | Json | 23 | 0 | 0 | 1 |
@@ -48,22 +48,22 @@ x install dotenv-linter
 
 ## 流行度
 
-- **Star**: 2,119 · **Fork**: 168 · **开放 issue**: 224 · **贡献者**: 98
+- **Star**: 2,118 · **Fork**: 168 · **开放 issue**: 224 · **贡献者**: 101
 
 ## 累计统计
 
-- **发布数**: 15 · **已合并 PR**: 504 · **开放 PR**: 8 · **已关闭 issue**: 212 · **开放 issue**: 12 · **提交数**: 523
+- **发布数**: 15 · **已合并 PR**: 507 · **开放 PR**: 3 · **已关闭 issue**: 213 · **开放 issue**: 11 · **提交数**: 526
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 25 | 0 | 0 | 1 | 33 |
-| last60d | 2026-09-25 | 0 | 25 | 1 | 0 | 1 | 33 |
-| 90d | 2026-08-26 | 0 | 28 | 1 | 0 | 2 | 33 |
-| last180d | 2026-05-28 | 0 | 28 | 3 | 0 | 2 | 33 |
-| 360d | 2025-11-29 | 0 | 33 | 4 | 0 | 3 | 34 |
-| last720d | 2024-12-04 | 1 | 74 | 7 | 6 | 4 | 74 |
+| 30d | 2026-10-26 | 0 | 27 | 0 | 0 | 1 | 36 |
+| last60d | 2026-09-26 | 0 | 27 | 0 | 0 | 1 | 36 |
+| 90d | 2026-08-27 | 0 | 30 | 0 | 0 | 2 | 36 |
+| last180d | 2026-05-29 | 0 | 31 | 1 | 0 | 2 | 36 |
+| 360d | 2025-11-30 | 0 | 36 | 2 | 0 | 3 | 37 |
+| last720d | 2024-12-05 | 1 | 77 | 2 | 6 | 4 | 77 |
 
 ## Release 资产
 
@@ -78,18 +78,6 @@ x install dotenv-linter
 | [dotenv-linter-win-aarch64.zip](https://github.com/dotenv-linter/dotenv-linter/releases/download/v4.0.0/dotenv-linter-win-aarch64.zip) | 661.4 KiB | `other` |
 | [dotenv-linter-win-x64.zip](https://github.com/dotenv-linter/dotenv-linter/releases/download/v4.0.0/dotenv-linter-win-x64.zip) | 1.3 MiB | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/dotenv-linter) 上共有 **21** 个发行版报告此项目。**14** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `4.0.0` | ✅ latest |
-| Debian 14 | `4.0.0` | ✅ latest |
-| Homebrew | `4.0.0` | ✅ latest |
-| Nix unstable | `4.0.0` | ✅ latest |
-| Alpine edge | `4.0.0` | ✅ latest |
-
 ## 改进这些数据
 
 dotenv-linter 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `dotenv-linter` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -99,4 +87,4 @@ dotenv-linter 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:31:58Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:19:54Z._

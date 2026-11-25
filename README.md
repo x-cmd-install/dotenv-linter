@@ -14,11 +14,11 @@ x install dotenv-linter
 
 ## Code insight
 
-Total: **8,631** lines of code across **117** files in the top 5 languages.
+Total: **9,090** lines of code across **119** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 8,185 | 203 | 1,461 | 104 |
+| Rust | 8,644 | 210 | 1,443 | 106 |
 | Toml | 211 | 18 | 27 | 9 |
 | Sh | 176 | 14 | 48 | 2 |
 | Json | 23 | 0 | 0 | 1 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,119 · **Forks**: 168 · **Open issues**: 224 · **Contributors**: 98
+- **Stars**: 2,118 · **Forks**: 168 · **Open issues**: 224 · **Contributors**: 101
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 504 · **Open PRs**: 8 · **Closed issues**: 212 · **Open issues**: 12 · **Commits**: 523
+- **Releases**: 15 · **Merged PRs**: 507 · **Open PRs**: 3 · **Closed issues**: 213 · **Open issues**: 11 · **Commits**: 526
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 25 | 0 | 0 | 1 | 33 |
-| last60d | 2026-09-25 | 0 | 25 | 1 | 0 | 1 | 33 |
-| 90d | 2026-08-26 | 0 | 28 | 1 | 0 | 2 | 33 |
-| last180d | 2026-05-28 | 0 | 28 | 3 | 0 | 2 | 33 |
-| 360d | 2025-11-29 | 0 | 33 | 4 | 0 | 3 | 34 |
-| last720d | 2024-12-04 | 1 | 74 | 7 | 6 | 4 | 74 |
+| 30d | 2026-10-26 | 0 | 27 | 0 | 0 | 1 | 36 |
+| last60d | 2026-09-26 | 0 | 27 | 0 | 0 | 1 | 36 |
+| 90d | 2026-08-27 | 0 | 30 | 0 | 0 | 2 | 36 |
+| last180d | 2026-05-29 | 0 | 31 | 1 | 0 | 2 | 36 |
+| 360d | 2025-11-30 | 0 | 36 | 2 | 0 | 3 | 37 |
+| last720d | 2024-12-05 | 1 | 77 | 2 | 6 | 4 | 77 |
 
 ## Release assets
 
@@ -78,18 +78,6 @@ Lowest-scoring checks:
 | [dotenv-linter-win-aarch64.zip](https://github.com/dotenv-linter/dotenv-linter/releases/download/v4.0.0/dotenv-linter-win-aarch64.zip) | 661.4 KiB | `other` |
 | [dotenv-linter-win-x64.zip](https://github.com/dotenv-linter/dotenv-linter/releases/download/v4.0.0/dotenv-linter-win-x64.zip) | 1.3 MiB | `other` |
 
-## Distribution status
-
-Reported by **21** distros on [repology.org](https://repology.org/project/dotenv-linter). **14** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `4.0.0` | ✅ latest |
-| Debian 14 | `4.0.0` | ✅ latest |
-| Homebrew | `4.0.0` | ✅ latest |
-| Nix unstable | `4.0.0` | ✅ latest |
-| Alpine edge | `4.0.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for dotenv-linter lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dotenv-linter` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -99,4 +87,4 @@ Install metadata for dotenv-linter lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:31:57Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:19:53Z._
